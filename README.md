@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amey Prakash</h1>
+<h3 align="center">🚀 Python learner | Exploring DSA & Web Dev</h3>
 
-<!--
-**AmeyPrakash/AmeyPrakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Data Structures & Algorithms using Python**
+- 💻 I’m also exploring **Web Development** and **Git/GitHub**
+- 📚 Always eager to learn new tech and tools
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Currently working on
+- DSA problems on LeetCode & GFG
+- Personal GitHub projects
+- GitHub profile setup
+
+---
+
+### 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🛠️ Goals for 2025
+- ✅ Master Python basics & DSA
+- ✅ Upload consistent GitHub commits
+- 🚀 Build real-world web dev projects
+- 💼 Get internship-ready by 2nd year
+
