@@ -25,5 +25,3 @@
 - ✅ Master Python basics & DSA
 - ✅ Upload consistent GitHub commits
 - 🚀 Build real-world web dev projects
-- 💼 Get internship-ready by 2nd year
-
