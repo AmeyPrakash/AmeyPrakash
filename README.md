@@ -21,6 +21,5 @@
 ---
 
 ### 🛠️ Goals for 2025
-- ✅ Master Python basics & DSA
-- ✅ Upload consistent GitHub commits
+- ✅ Master Python & DSA
 - 🚀 Build real-world web dev projects
