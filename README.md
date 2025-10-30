@@ -9,8 +9,6 @@
 
 ### 📌 Currently working on
 - DSA problems on LeetCode & GFG
-- GitHub profile setup
-
 ---
 
 ### 💻 Tech Stack
