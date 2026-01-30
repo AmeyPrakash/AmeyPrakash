@@ -23,6 +23,6 @@
 
 ---
 
-### 🛠️ Goals for 2025
+### 🛠️ Goals for 2026
 - ✅ Master Python & DSA
 - 🚀 Build real-world web dev projects
