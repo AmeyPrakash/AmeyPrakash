@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amey Prakash</h1>
-<h3 align="center">🚀 Python learner | Exploring DSA & Web Dev</h3>
+<h3 align="center">🚀 C++ learner | Exploring DSA & Web Dev</h3>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms using Python**
+- 🌱 I’m currently learning **Data Structures & Algorithms using C++**
 - 💻 I’m also exploring **Web Development** and **Git/GitHub**
 - 📚 Always eager to learn new tech and tools
 
