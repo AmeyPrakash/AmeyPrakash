@@ -12,7 +12,6 @@
 - 💻 Passionate about Software Development, AI/ML and Problem Solving
 - 🧠 Solved **100+ LeetCode** problems
 - 🌱 Currently learning **React and AI/ML**
-- 🚀 Building real-world projects using Python and JavaScript
 - 📖 Always exploring new technologies and best development practices
 
 ---
