@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amey Prakash</h1>
 
 <h3 align="center">
-🚀 Aspiring Software Development Engineer | AI/ML Enthusiast | Full-Stack Developer in Progress
+🚀 Aspiring Software Development Engineer | AI Enthusiast | Full-Stack Developer in Progress
 </h3>
 
 ---
@@ -9,9 +9,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science & Engineering Student
-- 💻 Passionate about Software Development, AI/ML and Problem Solving
+- 💻 Passionate about Software Development, AI and Problem Solving
 - 🧠 Solved **100+ LeetCode** problems
-- 🌱 Currently learning **React and AI/ML**
+- 🌱 Currently learning **React and AI**
 - 📖 Always exploring new technologies and best development practices
 
 ---
