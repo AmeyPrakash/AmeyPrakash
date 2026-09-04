@@ -55,9 +55,9 @@
 ## 🎯 2026 Goals
 
 - ✅ Reach 300+ LeetCode problems
-- 🚀 Build 5+ production-ready full-stack projects
+- 🚀 Build production-ready projects
 - 🤝 Contribute to Open Source
-- 💼 Secure an SDE Internship
+- 💼 Secure an Internship
 - 📚 Strengthen AI/ML knowledge
 
 ---
