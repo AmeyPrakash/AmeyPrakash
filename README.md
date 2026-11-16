@@ -1,8 +1,6 @@
 # Hi, I'm Amey Prakash
 
-\<h1 align="center">Hi, I'm Amey Prakash\</h1>
-
-\<h3 align="center"> Aspiring Software Development Engineer | AI Enthusiast | Full-Stack Developer in Progress \</h3>
+Aspiring Software Development Engineer | AI Enthusiast | Full-Stack Developer in Progress
 
 ---
 
